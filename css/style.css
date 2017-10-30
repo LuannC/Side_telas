@@ -139,3 +139,22 @@ footer {
 	font-size: 14pt;
 	}
 }
+/* planilha */
+.parametro{
+    padding-right: 64px;
+
+    background-color:  #0E6655 !important;
+    border-style: none;
+    text-align: right;
+    color: white;
+    font-size: 18px;
+    font-weight: 200;
+    padding-left: 1px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.dados{
+	background-color: #F0F5F7;
+}
